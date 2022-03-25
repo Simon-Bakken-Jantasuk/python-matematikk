@@ -19,14 +19,3 @@ for x in range(-10,11):
         print(x, f(x))
     x = x + 1
 # Mye finere...
-
-## Finne ekstremalpunktene til en polynom funksjon med flere ekstremalpunkter
-
-def f(x):
-  return (x + 1)*(x + 2)*(x + 4)
-
-def fderivert(x):
-  return 3*x**2 + 14*x + 14 
- 
-# while loop
-x 
